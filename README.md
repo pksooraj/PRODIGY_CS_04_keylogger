@@ -22,8 +22,8 @@ This project is a basic keylogger implemented in Python using the `pynput` libra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/keylogger-with-encryption.git
-    cd keylogger-with-encryption
+    git clone https://github.com/pksooraj/PRODIGY_CS_04_keylogger.git
+    cd PRODIGY_CS_04_keylogger
     ```
 
 2. Install the required libraries:
